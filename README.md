@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div class="tenor-gif-embed" data-postid="17379117" data-share-method="host" data-aspect-ratio="1.33891" data-width="100%"><a href="https://tenor.com/view/hi-twice-sana-minatozaki-sana-vocalist-gif-17379117">Hi Twice GIF</a>from <a href="https://tenor.com/search/hi-gifs">Hi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/view/hi-twice-sana-minatozaki-sana-vocalist-gif-17379117" width="100"/>
   <h1>Hey there!</h1>
 </div>
 
