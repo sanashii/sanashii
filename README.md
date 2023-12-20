@@ -6,7 +6,7 @@
   <p>I'm Andy, a BS CS student interested in the field of Data Science, AI, ML, and Robotics. </p>
   <p>I often enjoy working on fullstack projects and I'm currently looking into strengthening my backend foundation along with my data science background. I still have a long way to go, but I enjoy learning things I am interested in!</p>
   <h3>Socials:</h3>
-  <div id="badges" style="display: flex; justify-content: center; margin: 10px;">
+  <div id="badges" align-items: center; margin: 10px;">
     <a href="https://www.linkedin.com/in/andybaulita/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -57,9 +57,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanashii&layout=compact&theme=apprentice&hide_border=true" alt="Top Languages">
   </div>
 </div>
-
-<div style="display: flex; justify-content: center;">
+<hr>
+<br>
+<div id="footer" align="center">
   <img src="https://media.giphy.com/media/agLzP4BYRPcOY/giphy.gif" width="150" alt="Animated GIF">
+  <blockquote>
+    <p>"Hold Your Head Up High And Plunge Forward."</p>
+  </blockquote>
 </div>
 
 
