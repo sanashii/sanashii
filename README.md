@@ -52,10 +52,10 @@
 <h3>Stats:</h3>
 <div style="display: flex;">
   <div style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanashii&theme=apprentice&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sanashii&theme=city_lights&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
   </div>
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanashii&layout=compact&theme=apprentice&hide_border=true" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanashii&layout=compact&theme=city_lights&hide_border=true" alt="Top Languages">
   </div>
 </div>
 <hr>
