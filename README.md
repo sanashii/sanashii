@@ -34,6 +34,7 @@
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />        
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <br><br>
