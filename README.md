@@ -57,6 +57,7 @@
   <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanashii&layout=compact&theme=city_lights&hide_border=true" alt="Top Languages">
   </div>
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20166%26project%3D%26in=0">
 </div>
 <hr>
 <br>
