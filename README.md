@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JsKdu4ikYSoxaAhJOB/giphy.gif" width="300"/>
-  <h1>Hey there~ ヾ(^▽^*)))</h1>
+  <h1>Hey there! ヾ(^▽^*)))</h1>
 </div>
 <div style="display: flex; flex-direction: column; align-items: center;">
   <p>I'm Andy, a BS CS student interested in the fields of Data Science, AI, ML, and Robotics. </p>
