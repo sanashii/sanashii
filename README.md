@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JsKdu4ikYSoxaAhJOB/giphy.gif" width="300"/>
+  <img src="https://gifdb.com/images/high/deku-and-bakugo-ready-to-fight-ps4bk3o91d12xbn3.gif" width="300"/>
   <h1>Hey there! ヾ(^▽^*)))</h1>
 </div>
 <div style="display: flex; flex-direction: column; align-items: center;">
@@ -61,7 +61,7 @@
 <hr>
 <br>
 <div id="footer" align="center">
-  <img src="https://media.giphy.com/media/agLzP4BYRPcOY/giphy.gif" width="150" alt="Animated GIF">
+  <img src="https://gifdb.com/images/high/deku-with-an-old-face-947y6ap92o03b7u7.gif" width="250" alt="Animated GIF">
   <blockquote>
     <p>"Hold Your Head Up High And Plunge Forward."</p>
   </blockquote>
