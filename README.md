@@ -42,11 +42,14 @@
   <h3>Tools:</h3>
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-  <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />  
+  <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />        
-  <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />    
+  <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-plain-wordmark.svg" />
   <hr>
