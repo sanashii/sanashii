@@ -54,13 +54,19 @@
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-plain-wordmark.svg" />
   <hr>
 <h3>Stats:</h3>
-<div style="display: flex;">
+<div style="display: flex;" align="center">
+  <div style="flex: 2;">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sanashii&theme=ayu-mirage&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  </div>
+  
   <div style="flex: 1; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanashii&theme=city_lights&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sanashii&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
   </div>
+  
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanashii&layout=compact&theme=city_lights&hide_border=true" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanashii&layout=compact&theme=ayu-mirage&hide_border=true" alt="Top Languages">
   </div>
+  
   <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20166%26project%3D%26in=0">
 </div>
 <hr>
