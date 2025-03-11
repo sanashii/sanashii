@@ -36,7 +36,8 @@
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />         
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-  <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />        
+  <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
   <br><br>
   <hr>
   <h3>Tools:</h3>
@@ -51,7 +52,9 @@
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />        
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img style="height: 60px; width: 60px; margin: 0px 40px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-plain.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-plain-wordmark.svg" />
   <hr>
 <h3>Stats:</h3>
