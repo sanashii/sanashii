@@ -44,6 +44,7 @@
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />        
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
