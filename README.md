@@ -3,7 +3,7 @@
   <h1>Hey there! ヾ(^▽^*)))</h1>
 </div>
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <p>I'm Andy, a BS CS student interested in the fields of Data Science, AI, ML, and Robotics. </p>
+  <p>I'm Andy and I'm interested in the fields of Data Science, AI, ML, and Robotics. </p>
   <p>I often enjoy working on fullstack projects and I'm currently looking into strengthening my backend foundation along with my data science background. I still have a long way to go, but I enjoy learning things I am interested in!</p>
   <h3>Socials:</h3>
   <div id="badges" align-items: center; margin: 10px;">
