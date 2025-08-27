@@ -4,7 +4,8 @@
 </div>
 <div style="display: flex; flex-direction: column; align-items: center;">
   <p>I'm Andy and I'm interested in the fields of Data Science, AI, ML, and Robotics. </p>
-  <p>I often enjoy working on fullstack projects and I'm currently looking into strengthening my backend foundation along with my data science background. I still have a long way to go, but I enjoy learning things I am interested in!</p>
+  <p>I often enjoy working on fullstack projects and I'm currently looking into strengthening my backend foundation along with my data science background. During my free time, I tend to pose and take photos of my action figure collection or just take general photographs</p>
+  
   <h3>Socials:</h3>
   <div id="badges" align-items: center; margin: 10px;">
     <a href="https://www.linkedin.com/in/andybaulita/" target="_blank">
@@ -20,6 +21,10 @@
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
+  <h3>Hobby Plugins:</h3>
+  <a href="https://www.instagram.com/supreme_hobbyist" target="_blank">Figstagram</a><br>
+  <a href="https://www.tiktok.com/@supreme_hobbyist" target="_blank">Figtok</a><br>
+  <a href="https://www.instagram.com/bau_files" target="_blank"> Photography Instagram</a>
   <hr>
   <h3>Tech Stack:</h3>
   <img style="height: 60px; width: 60px; margin: 0px 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
