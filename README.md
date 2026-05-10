@@ -87,7 +87,7 @@ When I'm not deploying things, I'm photographing action figures and other small 
   <img src="https://raw.githubusercontent.com/sanashii/sanashii/main/assets/vault-status.svg" alt="Vault Status" width="500" />
 </div>
 
-- Action figures — [@supreme_hobbyist](https://www.instagram.com/supreme_hobbyist)
+- Action figures — [@supreme_hobbyist](https://www.tiktok.com/@supreme_hobbyist)
 - Photography — [@bau_files](https://www.instagram.com/bau_files)
 
 ---
