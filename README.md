@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:1e3a5f,100:3b82f6&height=180&section=header&animation=fadeIn)
+
 <div align="center">
 
 ```
@@ -14,9 +16,13 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+VAULT-TEC+OS...;%3E+USER+AUTHENTICATED+%E2%97%89;%3E+SYSTEMS+ONLINE+--+READY+FOR+DEPLOYMENT_)](https://git.io/typing-svg)
+
 [![Portfolio](https://img.shields.io/badge/▶_PORTFOLIO-3b82f6?style=for-the-badge&labelColor=0a0e1a)](https://andybaulita.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/▶_LINKEDIN-0A66C2?style=for-the-badge&labelColor=0a0e1a&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andybaulita/)
 [![Email](https://img.shields.io/badge/▶_TRANSMIT-f59e0b?style=for-the-badge&labelColor=0a0e1a&logo=gmail&logoColor=white)](mailto:andybaulita@gmail.com)
+
+![Visitors](https://komarev.com/ghpvc/?username=sanashii&label=VAULT+VISITORS&color=3b82f6&style=for-the-badge&labelColor=0a0e1a)
 
 </div>
 
@@ -65,11 +71,10 @@ FRONT-END   ::  React  ·  Next.js  ·  Tailwind  ·  Figma
 
 ---
 
-### `►  TELEMETRY`
+### `►  COMMIT_ACTIVITY_LOG`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanashii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0a0e1a&title_color=3b82f6&icon_color=f59e0b&text_color=e2e8f0" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanashii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=3b82f6&text_color=e2e8f0" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanashii&theme=tokyo-night&bg_color=0a0e1a&color=3b82f6&line=f59e0b&point=22d3ee&hide_border=true&custom_title=COMMIT%20ACTIVITY%20LOG&area=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -77,6 +82,10 @@ FRONT-END   ::  React  ·  Next.js  ·  Tailwind  ·  Figma
 ### `►  OFF-DUTY`
 
 When I'm not deploying things, I'm photographing action figures and other small worlds.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sanashii/sanashii/main/assets/vault-status.svg" alt="Vault Status" width="500" />
+</div>
 
 - Action figures — [@supreme_hobbyist](https://www.instagram.com/supreme_hobbyist)
 - Photography — [@bau_files](https://www.instagram.com/bau_files)
@@ -86,3 +95,5 @@ When I'm not deploying things, I'm photographing action figures and other small 
 <div align="center">
 <sub><code>// "Hold your head up high and plunge forward."</code></sub>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a5f,100:0a0e1a&height=120&section=footer)
